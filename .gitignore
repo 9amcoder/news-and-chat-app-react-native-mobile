@@ -11,5 +11,7 @@ web-build/
 web-report/
 *.idea
 *.DS_Store
-src/config.js
-src/firebase/**
+config.js
+firebase/
+.vscode/
+
