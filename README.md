@@ -1,6 +1,6 @@
-# React Native Expo with Firebase V2
+# News and Chat App : React Native Expo with Firebase 
 
-- [Expo link](https://expo.io/@votepurchase/reactnative-expo-firebase-boilerplate-v2)
+
 
 ## Screens
 
