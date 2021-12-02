@@ -4,9 +4,11 @@
 
 ## Screens
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img1.jpg' width='80%'>
+<img src='https://i.postimg.cc/T15kp8p1/i-VBORw0-KGgo-AAAANSUh-EUg-AABYw-AAArc-CAMAAABAt0r3-AAAC-l-BMVEUAAABcb-Vpdbltbb-Fpgcl5.jpg' width='30%'>
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img6.jpg' width='80%'>
+
+<img src='https://i.postimg.cc/4dd2RHGz/i-Phone-6s-gifted-chat-3.png' width='30%'>
+
 
 ## Infrastructure
 
